@@ -1,0 +1,156 @@
+$date
+	Mon Apr 15 20:08:17 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module convolution_tb $end
+$var wire 4 ! y9 [3:0] $end
+$var wire 4 " y8 [3:0] $end
+$var wire 4 # y7 [3:0] $end
+$var wire 4 $ y6 [3:0] $end
+$var wire 4 % y5 [3:0] $end
+$var wire 4 & y4 [3:0] $end
+$var wire 4 ' y3 [3:0] $end
+$var wire 4 ( y2 [3:0] $end
+$var wire 4 ) y15 [3:0] $end
+$var wire 4 * y14 [3:0] $end
+$var wire 4 + y13 [3:0] $end
+$var wire 4 , y12 [3:0] $end
+$var wire 4 - y11 [3:0] $end
+$var wire 4 . y10 [3:0] $end
+$var wire 4 / y1 [3:0] $end
+$var wire 4 0 y0 [3:0] $end
+$var reg 1 1 clk $end
+$scope module dut $end
+$var wire 1 1 clk $end
+$var wire 4 2 h0 [3:0] $end
+$var wire 4 3 h1 [3:0] $end
+$var wire 4 4 h2 [3:0] $end
+$var wire 4 5 h3 [3:0] $end
+$var wire 4 6 h4 [3:0] $end
+$var wire 4 7 h5 [3:0] $end
+$var wire 4 8 h6 [3:0] $end
+$var wire 4 9 h7 [3:0] $end
+$var wire 4 : x0 [3:0] $end
+$var wire 4 ; x1 [3:0] $end
+$var wire 4 < x2 [3:0] $end
+$var wire 4 = x3 [3:0] $end
+$var wire 4 > x4 [3:0] $end
+$var wire 4 ? x5 [3:0] $end
+$var wire 4 @ x6 [3:0] $end
+$var wire 4 A x7 [3:0] $end
+$var reg 4 B y0 [3:0] $end
+$var reg 4 C y1 [3:0] $end
+$var reg 4 D y10 [3:0] $end
+$var reg 4 E y11 [3:0] $end
+$var reg 4 F y12 [3:0] $end
+$var reg 4 G y13 [3:0] $end
+$var reg 4 H y14 [3:0] $end
+$var reg 4 I y15 [3:0] $end
+$var reg 4 J y2 [3:0] $end
+$var reg 4 K y3 [3:0] $end
+$var reg 4 L y4 [3:0] $end
+$var reg 4 M y5 [3:0] $end
+$var reg 4 N y6 [3:0] $end
+$var reg 4 O y7 [3:0] $end
+$var reg 4 P y8 [3:0] $end
+$var reg 4 Q y9 [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 Q
+b1100 P
+b0 O
+b1100 N
+b0 M
+b1100 L
+b0 K
+b1100 J
+b0 I
+b1100 H
+b0 G
+b1100 F
+b0 E
+b1100 D
+b0 C
+b1100 B
+b1000 A
+b111 @
+b110 ?
+b101 >
+b100 =
+b11 <
+b10 ;
+b1 :
+b1 9
+b10 8
+b11 7
+b100 6
+b101 5
+b110 4
+b111 3
+b1000 2
+01
+b1100 0
+b0 /
+b1100 .
+b0 -
+b1100 ,
+b0 +
+b1100 *
+b0 )
+b1100 (
+b0 '
+b1100 &
+b0 %
+b1100 $
+b0 #
+b1100 "
+b0 !
+$end
+#5
+11
+#10
+01
+#15
+11
+#20
+01
+#25
+11
+#30
+01
+#35
+11
+#40
+01
+#45
+11
+#50
+01
+#55
+11
+#60
+01
+#65
+11
+#70
+01
+#75
+11
+#80
+01
+#85
+11
+#90
+01
+#95
+11
+#100
+01
